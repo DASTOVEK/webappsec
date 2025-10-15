@@ -1,0 +1,13 @@
+name: webappsec
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/ac8f2d1a-f774-4803-8e5e-57186ec0e07a
+description: Web Application Security Working Group repo
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
